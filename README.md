@@ -1,2 +1,5 @@
 # ejercicio-cero-reginaceballos
-ejercicio-cero-reginaceballos created by GitHub Classroom
+ejercicio-cero-reginaceballos
+
+Regina Ceballos
+147663
